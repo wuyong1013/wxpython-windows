@@ -3,7 +3,7 @@
 
 # 功能：WxPythonj绘制界面
 # 作者：吴勇
-# 创建时间：2020/9/92
+# 创建时间：2020/9/9
 
 import wx
 import wx.xrc
