@@ -302,8 +302,7 @@ class MyFrame1(wx.Frame):
         self.m_button51.Bind(wx.EVT_BUTTON, self.fasongxiazaiqi)
         self.m_button61.Bind(wx.EVT_BUTTON, self.qingchuxiazaiqi)
 
-    def __del__(self):
-        pass
+
 
     # Virtual event handlers, overide them in your derived class
     def cshihuanjing(self, event):
